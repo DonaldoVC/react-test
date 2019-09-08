@@ -1,0 +1,42 @@
+a {
+    color: white;
+    font-size: larger;
+}
+
+a:hover {
+    color: gray;
+}
+
+li {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+hr {
+    background-color: #333;
+}
+
+button {
+    color: white;
+    border-color: white;
+}
+
+button:hover {
+    color: white !important;
+    background-color: black !important;
+    border-color: #808080 !important;
+}
+
+.search {
+    background-color: #333 !important;
+    border: #555 !important;
+    color: #fff !important;
+}
+
+.img-logo {
+    width: 80%;
+}
+
+.logo {
+    margin-right: -50px;
+}

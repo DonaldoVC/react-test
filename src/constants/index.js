@@ -1,0 +1,11 @@
+export const LOADING_MOVIES = 'LOADING_MOVIES';
+export const SUCCESS_MOVIES = 'SUCCESS_MOVIES';
+export const ERROR_MOVIES = 'ERROR_MOVIES';
+
+export const LOADING_INFO = 'LOADING_INFO';
+export const SUCCESS_INFO = 'SUCCESS_INFO';
+export const ERROR_INFO = 'ERROR_INFO';
+
+export const LOADING_MOVIE = 'LOADING_MOVIE';
+export const SEARCH_MOVIE = 'SEARCH_MOVIE';
+export const ERROR_MOVIE = 'ERROR_MOVIE';
